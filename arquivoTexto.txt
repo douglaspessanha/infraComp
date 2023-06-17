@@ -1,0 +1,2 @@
+arquivo com 1 linha
+nova linha no arquivo
