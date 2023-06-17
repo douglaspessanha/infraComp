@@ -2,4 +2,6 @@ arquivo com 1 linha
 nova linha no arquivo
 outra linha agora
 
-apaguei a linha e inseri outra
+
+
+####### linha bonita ######
